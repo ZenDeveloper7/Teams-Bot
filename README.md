@@ -1,9 +1,8 @@
 # Teams Bot
 
-Clone the project and run
-```pip install -r requirements.txt```
-Add your email and password in ```config.json```
-At last run - ```python join_meeting.py```
+ - Clone the project and run ```pip install -r requirements.txt```
+ - Add your email and password in ```config.json```
+ - At last run - ```python join_meeting.py```
 
 
 # Inspired from
