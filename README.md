@@ -7,3 +7,5 @@
 
 # Inspired from
 - https://github.com/TobiasPankner/Teams-Auto-Joiner#run-the-script
+
+checking updates
